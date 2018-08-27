@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "react-chat-app", "react-chat-app.csproj", "{DD873B3C-009F-4B6E-80EF-5C3EB3204BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD873B3C-009F-4B6E-80EF-5C3EB3204BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD873B3C-009F-4B6E-80EF-5C3EB3204BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD873B3C-009F-4B6E-80EF-5C3EB3204BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD873B3C-009F-4B6E-80EF-5C3EB3204BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
